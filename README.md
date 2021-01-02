@@ -30,7 +30,7 @@ ve bakımını yaptım. Bu kripto paraların borsaya entegrasyonunu sağladım. 
 
 ### Ayrıca
 
-Geliştirme esnasında ihtiyaç duyduğum şeyler.
+Geliştirme esnasında faydalandığım programlar.
 
 * [Jetbrains Products](https://www.jetbrains.com/) | [Visual Studio](https://visualstudio.microsoft.com/tr/)
   | [Sublime Text](https://www.sublimetext.com/)
