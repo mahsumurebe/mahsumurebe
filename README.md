@@ -70,3 +70,5 @@ Geliştirme esnasında faydalandığım programlar.
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-@mahsum--urebe-informational?style=flat&logo=stackoverflow&color=ffba08)](https://stackoverflow.com/users/5305838/mahsum-urebe?tab=profile)
 [![Skype](https://img.shields.io/badge/Skype-@mahsumurebe-informational?style=flat&logo=skype&color=ffba08)](skype:mahsumurebe?userinfo)
 [![Twitter](https://img.shields.io/badge/Twitter-@mahsumurebe-informational?style=flat&logo=twitter&color=ffba08)](https://twitter.com/mahsumurebe)
+
+![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=mahsumurebe&color=1460dc&style=flat-square&label=Profilin+G%C3%B6r%C3%BCnt%C3%BClenme+Say%C4%B1s%C4%B1)
