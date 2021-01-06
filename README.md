@@ -53,7 +53,7 @@ Geliştirme esnasında faydalandığım programlar.
 | 🟩  Ram 1: Kingston 8GB HyperX Fury Black DDR4 2400MHz CL15 | 🟩  Ram 1: Kingston DDR3 8GB 1600Mhz (PC3-12800) |
 | 🟩  Ram 2: Kingston 8GB HyperX Fury Black DDR4 2400MHz CL15 | 🟩  Ram 2: Kingston DDR3 8GB 1600Mhz (PC3-12800) |
 | 💾  Disk: WD Blue 3D 250GB WDS250G2B0A | 💾  Disk: Samsung 250GB 860 EVO SATA 3.0 |
-| 📷  Ekran Kartı: Sapphire PULSE RADEON RX 560 4GB GDDR5 | 📷  Ekran Kartı: Sapphire PULSE RADEON RX 560 4GB GDDR5 |
+| 📷  Ekran Kartı: NVDIA GeForce GT 1030 2GB | 📷  Ekran Kartı: Sapphire PULSE RADEON RX 560 4GB GDDR5 |
 | 🖥️  Ekran 1: Philips 246E9QDSB/01 23.8" 4ms 75hz FreeSync Full HD IPS | 🖥️  Ekran: Cbox 23,6 2320 Led |
 | 🖥️  Ekran 2: Dell SE2717H 27" 6ms 75Hz FreeSync (HDMI+ VGA) IPS | - |
 | 🖥️  Ekran 3: Philips 246E9QDSB/01 23.8" 4ms 75hz FreeSync Full HD IPS | - |
