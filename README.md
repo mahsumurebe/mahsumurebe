@@ -3,7 +3,7 @@
 # Merhabalar
 
 Ölçeklenebilir uygulama ve sistem geliştiricisiyim. Yaklaşık 10 yıldır profesyonel olarak yazılım sektöründe
-bulunmaktayım. Şimdiye kadar PHP, Javascript, Typescript, GoLang, Visual Basic, C# dillerini kullanarak geliştirmeler
+bulunmaktayım. Şimdiye kadar PHP, Javascript, Typescript, Go, Visual Basic, C# dillerini kullanarak geliştirmeler
 yaptım. Yeni teknolojileri takip edip bu yeni teknolojileri projelerimde kullanıyorum ve bunu yapmaktan büyük keyif
 alıyorum. Ayrıca geliştirdiğim uygulamaların DevOps işlerini de kendim yürütmekteyim.
 
