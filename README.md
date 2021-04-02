@@ -8,7 +8,7 @@ yaptım. Yeni teknolojileri takip edip bu yeni teknolojileri projelerimde kullan
 alıyorum. Ayrıca geliştirdiğim uygulamaların DevOps işlerini de kendim yürütmekteyim.
 
 Bugüne kadar CRM, ERP, Kripto Para Borsası, CMS, Yönetim Panelleri, Bot yazılımları ve DevOps İşleri yaptım. Uzun
-süredir bir kripto borsanın, blockchain katmanını tasarlayıp servisler geliştirdim. Kripto para yazılımlarının kurulumu
+süre bir kripto borsanın, blockchain katmanını tasarlayıp servisler geliştirdim. Kripto para yazılımlarının kurulumu
 ve bakımını yaptım. Bu kripto paraların borsaya entegrasyonunu sağladım. Oluşturduğum yazılımları dockerize edip
 çalıştırdım. Docker stack ile oluşturduğum docker servislerini yönettim.
 
