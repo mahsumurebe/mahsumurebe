@@ -46,7 +46,7 @@ Programs I used during development.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsumurebe&layout=compact&theme=darcula)
 
 ### Computers
-| 🗄️️  Development | 🗄️️  Home PC |
+| 🗄️️  Development PC | 🗄️️  Home PC |
 |----------------------------------|--------------------------------------|
 | 🟦  OS: Windows 10 Pro | 🟦  OS: Windows 10 Pro |
 | 🧮  CPU: Intel Core i9-10900K CPU @ 3.70GHz (20 CPUs), ~3.7 | 🧮  CPU: Intel i5-4450 CPU @ 3.20GHz |
@@ -54,7 +54,7 @@ Programs I used during development.
 | 🟩  Ram 1: CORSAIR CMK32GX4M2D3000C16 VENGEANCE LPX 16GB | 🟩  Ram 1: Kingston DDR3 8GB 1600Mhz (PC3-12800) |
 | 🟩  Ram 2: CORSAIR CMK32GX4M2D3000C16 VENGEANCE LPX 16GB | 🟩  Ram 2: Kingston DDR3 8GB 1600Mhz (PC3-12800) |
 | 💾  Disk: Samsung 500GB 970 EVO NVMe M.2 SSD| 💾  Disk: Samsung 250GB 860 EVO SATA 3.0 |
-| 📷  GPU: NVDIA GeForce GTX 1050 Ti 4GB | 📷  GPU: Ekran Kartı: NVDIA GeForce GT 1030 2GB |
+| 📷  GPU: NVDIA GeForce GTX 1050 Ti 4GB | 📷  GPU: NVDIA GeForce GT 1030 2GB |
 | 🖥️  Monitor 1: Dell S2421HGF 24" 144Hz | 🖥️  Monitor: Cbox 23,6 2320 Led |
 | 🖥️  Monitor 2: Dell S2421HGF 24" 144Hz | - |
 | 🖥️  Monitor 3: Cbox 23,6 2320 Led | - |
@@ -63,8 +63,8 @@ Programs I used during development.
 
 
 ## Contact Me
-[![Web](https://img.shields.io/badge/Web%20Sitem-https%3A%2F%2Fwww.mahsumurebe.com%2F-informational?style=flat&color=ffba08)](https://www.mahsumurebe.com/)
-[![Medium](https://img.shields.io/badge/E--Posta-info@mahsumurebe.com-informational?style=flat&logo=mail.ru&logoColor=white&color=ffba08)](mailto:info@mahsumurebe.com)
+[![Web](https://img.shields.io/badge/Web-https%3A%2F%2Fwww.mahsumurebe.com%2F-informational?style=flat&color=ffba08)](https://www.mahsumurebe.com/)
+[![Medium](https://img.shields.io/badge/E--Mail-info@mahsumurebe.com-informational?style=flat&logo=mail.ru&logoColor=white&color=ffba08)](mailto:info@mahsumurebe.com)
 [![Medium](https://img.shields.io/badge/Medium-@mahsumurebe-informational?style=flat&logo=medium&color=ffba08)](https://medium.com/@mahsumurebe)
 [![Linkedin](https://img.shields.io/badge/Linkedin-@mahsum--urebe-informational?style=flat&logo=linkedin&logoColor=0077B5&color=ffba08)](https://www.linkedin.com/in/mahsum-urebe)
 [![NPM](https://img.shields.io/badge/NPM-@mahsumurebe-informational?style=flat&logo=npm&color=ffba08)](https://www.npmjs.com/~mahsumurebe)
