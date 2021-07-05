@@ -1,6 +1,6 @@
 [![Header](./imgs/mahsum-urebe-header.svg "Header")](#bana-ulaşın)
-
-# Merhabalar
+[For English](./README.md)
+# Merhabalar 
 
 Ölçeklenebilir uygulama ve sistem geliştiricisiyim. Yaklaşık 10 yıldır profesyonel olarak yazılım sektöründe
 bulunmaktayım. Şimdiye kadar PHP, Javascript, Typescript, Go, Visual Basic, C# dillerini kullanarak geliştirmeler
