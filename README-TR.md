@@ -46,27 +46,6 @@ Geliştirme esnasında faydalandığım programlar.
 ![Mahsum UREBE's github stats](https://github-readme-stats.vercel.app/api?username=mahsumurebe&count_private=true&show_icons=true&theme=darcula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsumurebe&layout=compact&theme=darcula)
 
-### Bilgisayarlarım
-
-**Geliştirme Bilgisayarım (macOS)** 
-
-MacBook 14" Pro Apple M1 Pro Chipset 16 GB Ram 
-
-| 🗄️️  Geliştirme Bilgisayarım (Windows)                         |
-|-----------------------------------------------------------------|
-| 🟦  İşletim Sistemi: Windows 10 Pro                             |
-| 🧮  İşlemci: Intel Core i9-10900K CPU @ 3.70GHz (20 CPUs), ~3.7 |
-| 🟩  Anakart: MSI Z490-A PRO (MS-7C75)                           |
-| 🟩  Ram 1: CORSAIR CMK32GX4M2D3000C16 VENGEANCE LPX 16GB        |
-| 🟩  Ram 2: CORSAIR CMK32GX4M2D3000C16 VENGEANCE LPX 16GB        |
-| 💾  Disk: Samsung 500GB 970 EVO NVMe M.2 SSD                    |
-| 📷  Ekran Kartı: NVDIA GeForce GTX 1050 Ti 4GB                  |
-| 🖥️  Ekran 1: Dell S2421HGF 24" 144Hz                           |
-| 🖥️  Ekran 2: Dell S2421HGF 24" 144Hz                           |
-| 🖥️  Ekran 3: Cbox 23,6 2320 Led                                |
-| ⌨️  Klavye: Rampage KB-R81 ROCKET                               |
-| 🖱️ Fare: Rampage SMX-R85 GENTLE                                |
-
 
 ## Bana Ulaşın
 [![Web](https://img.shields.io/badge/Web%20Sitem-https%3A%2F%2Fwww.mahsumurebe.com%2F-informational?style=flat&color=ffba08)](https://www.mahsumurebe.com/)
