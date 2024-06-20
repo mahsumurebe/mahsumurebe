@@ -1,6 +1,3 @@
-[![Header](./imgs/mahsum-urebe-header.svg "Header")](#contact-me)
-[Türkçe İçin](./README-TR.md)
-
 # Hi
 
 I am an experienced (10+ Years), hardworking, responsible software developer who is passionate about technology and software. I follow new technologies and use these technologies in scalable applications and systems that I develop.
@@ -58,3 +55,5 @@ Programs I used during development.
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-@mahsum--urebe-informational?style=flat&logo=stackoverflow&color=ffba08)](https://stackoverflow.com/users/5305838/mahsum-urebe?tab=profile)
 
 ![Visitor's](https://komarev.com/ghpvc/?username=mahsumurebe&color=1460dc&style=flat-square&label=Visitor%20Count)
+
+[Türkçe İçin](./README-TR.md)

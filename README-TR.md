@@ -1,6 +1,3 @@
-[![Header](./imgs/mahsum-urebe-header.svg "Header")](#bana-ulaşın)
-[For English](./README.md)
-
 # Merhabalar
 
 Deneyimli (10+ Yıl), çalışkan, sorumluluk alabilien, teknoloji ve yazılım tutkunu olan yazılım geliştiriciyim. Yeni
@@ -67,3 +64,5 @@ Geliştirme esnasında faydalandığım programlar.
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-@mahsum--urebe-informational?style=flat&logo=stackoverflow&color=ffba08)](https://stackoverflow.com/users/5305838/mahsum-urebe?tab=profile)
 
 ![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=mahsumurebe&color=1460dc&style=flat-square&label=Profilin+G%C3%B6r%C3%BCnt%C3%BClenme+Say%C4%B1s%C4%B1)
+
+[For English](./README.md)
